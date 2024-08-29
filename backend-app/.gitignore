@@ -1,0 +1,16 @@
+# backend/.gitignore
+
+# Python specific
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environment variables
+.env
+
+# Other
+*.log
+*.sqlite3
